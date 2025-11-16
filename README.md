@@ -12,11 +12,8 @@ Transpose
 Use functions and 2D arrays for better modularity
 
 
-❌ TASK 3: High - Student Management System
+✅ TASK 3: High - Student Management System
 Create a menu-driven C program to manage student records
 Features: Add. Delete. Update, Search, Display records
 Use structures file handling to store data permanently
 
-❌ TASK 4: High-Banking System (Mini Project)
-Build Bank Account Management System in C
-Fiondions Deposit, Withdraw Balance Enquiry, and Ext Ungement using functions, structures, and file handling
